@@ -10,14 +10,14 @@ pin: false
 
 
 
-# Beat Em Up's
+## Beat Em Up's
 
 ### Streets Of Rage 4
 
 ### Teenage Mutant Ninja Turtles: Shredders Revenge
 
 
-# Fighting Games
+## Fighting Games
 For any of these to be recommended they must have rollback netcode at a minimum otherwise they are completely unplayable online
 ### Tekken 8
 
