@@ -3,7 +3,7 @@ title: GrandUpperEX's Game Recommendations
 date: 2024-03-01 04:00:00 +0000
 categories: [Gaming]
 tags: [recommendations]
-toc: false
+toc: true
 comments: false
 pin: false
 ---
