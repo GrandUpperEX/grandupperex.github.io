@@ -12,77 +12,77 @@ pin: false
 
 # Beat Em Up's
 
-## Streets Of Rage 4
+### Streets Of Rage 4
 
-## Teenage Mutant Ninja Turtles: Shredders Revenge
+### Teenage Mutant Ninja Turtles: Shredders Revenge
 
 
 # Fighting Games
-```For any of these to be recommended they must have rollback netcode at a minimum otherwise they are completely unplayable online```
-## Tekken 8
+For any of these to be recommended they must have rollback netcode at a minimum otherwise they are completely unplayable online
+### Tekken 8
 
-## Street Fighter 6
+### Street Fighter 6
 
-## DragonBall FighterZ
+### DragonBall FighterZ
 
-## Guilty Gear Strive
+### Guilty Gear Strive
 
-## Power Rangers: Battle For The Grid
+### Power Rangers: Battle For The Grid
 
-## Killer Instinct (2013)
-
-
+### Killer Instinct (2013)
 
 
-## Stardew Valley
 
 
-## Vampire Survivors
+### Stardew Valley
 
 
-## Hades
+### Vampire Survivors
 
 
-## Gran Turismo 7
+### Hades
 
 
-## Marvel's Spider-Man 1,2 & Miles Morales
+### Gran Turismo 7
 
 
-## Dead Cells
+### Marvel's Spider-Man 1,2 & Miles Morales
 
 
-## Devil May Cry 5 Special Edition
+### Dead Cells
 
 
-## Final Fantasy XVI
+### Devil May Cry 5 Special Edition
 
 
-## Resident Evil 2 Remake
+### Final Fantasy XVI
 
 
-## Tony Hawk's Pro Skater 1+2
+### Resident Evil 2 Remake
 
 
-## Bayonetta
+### Tony Hawk's Pro Skater 1+2
 
 
-## Doom Eternal
+### Bayonetta
 
 
-## Doom 2016
+### Doom Eternal
 
 
-## Fallout 4
+### Doom 2016
 
 
-## Vanquish
+### Fallout 4
 
 
-## Ghost Of Tsushima
+### Vanquish
 
 
-## Ratchet & Clank Rift Apart
+### Ghost Of Tsushima
+
+
+### Ratchet & Clank Rift Apart
 
 
 
