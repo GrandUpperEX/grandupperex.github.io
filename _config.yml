@@ -84,6 +84,8 @@ social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
+  min_level: 1
+  max_level: 3
 
 comments:
   active: # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
