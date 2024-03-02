@@ -32,7 +32,7 @@ All of these have rollback netcode for a great experience when playing online
 ### Fallout 4
 
 ## Indie
-### Stardew Valle
+### Stardew Valley
 ### Vampire Survivors
 ### Hades
 ### Dead Cells
