@@ -17,7 +17,6 @@ pin: false
 All of these have rollback netcode for a great experience when playing online
 ### Tekken 8
 ### Street Fighter 6
-### DragonBall FighterZ
 ### Guilty Gear Strive
 ### Power Rangers: Battle For The Grid
 ### Killer Instinct (2013)
