@@ -26,6 +26,7 @@ All of these have rollback netcode for a great experience when playing online
 ### Devil May Cry 5 Special Edition
 ### Bayonetta
 ### Vanquish
+### Metal Gear Rising Revengeance
 
 ## RPG
 ### Final Fantasy XVI
@@ -46,7 +47,7 @@ All of these have rollback netcode for a great experience when playing online
 
 ## Shooter
 ### Doom Eternal
-### Doom 2016
+### Doom (2016)
 
 ## Open World
 ### Ghost Of Tsushima
