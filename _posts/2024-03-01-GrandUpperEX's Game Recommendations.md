@@ -10,8 +10,8 @@ pin: false
 
 ## Beat Em Up's
 
-### Streets Of Rage 4
-### Teenage Mutant Ninja Turtles: Shredders Revenge
+#### Streets Of Rage 4
+#### Teenage Mutant Ninja Turtles: Shredders Revenge
 
 ## Fighting Games
 All of these have rollback netcode for a great experience when playing online
