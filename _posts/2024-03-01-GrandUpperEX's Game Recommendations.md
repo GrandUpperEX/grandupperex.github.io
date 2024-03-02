@@ -8,80 +8,51 @@ comments: false
 pin: false
 ---
 
-
-
 ## Beat Em Up's
 
 ### Streets Of Rage 4
-
 ### Teenage Mutant Ninja Turtles: Shredders Revenge
 
-
 ## Fighting Games
-For any of these to be recommended they must have rollback netcode at a minimum otherwise they are completely unplayable online
+All of these have rollback netcode for a great experience when playing online
 ### Tekken 8
-
 ### Street Fighter 6
-
 ### DragonBall FighterZ
-
 ### Guilty Gear Strive
-
 ### Power Rangers: Battle For The Grid
-
 ### Killer Instinct (2013)
 
-
-
-
-### Stardew Valley
-
-
-### Vampire Survivors
-
-
-### Hades
-
-
-### Gran Turismo 7
-
-
-### Marvel's Spider-Man 1,2 & Miles Morales
-
-
-### Dead Cells
-
-
+## Character Action 
 ### Devil May Cry 5 Special Edition
-
-
-### Final Fantasy XVI
-
-
-### Resident Evil 2 Remake
-
-
-### Tony Hawk's Pro Skater 1+2
-
-
 ### Bayonetta
-
-
-### Doom Eternal
-
-
-### Doom 2016
-
-
-### Fallout 4
-
-
 ### Vanquish
 
+## RPG
+### Final Fantasy XVI
+### Fallout 4
 
+## Indie
+### Stardew Valle
+### Vampire Survivors
+### Hades
+### Dead Cells
+
+## Sports & Racing
+### Gran Turismo 7
+### Tony Hawk's Pro Skater 1+2
+
+## Horror
+### Resident Evil 2 Remake
+
+## Shooter
+### Doom Eternal
+### Doom 2016
+
+## Open World
 ### Ghost Of Tsushima
+### Marvel's Spider-Man 1,2 & Miles Morales
 
-
+## Platformer
 ### Ratchet & Clank Rift Apart
 
 
