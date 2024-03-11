@@ -1,7 +1,7 @@
 #  The contact options.
 - type: mastodon
   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-  url:  'https://tech.lgbt/@GrandUpperEX'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
+  url:  'https://woof.group/@Jinrai'                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 
 - type: github
   icon: "fab fa-github"
