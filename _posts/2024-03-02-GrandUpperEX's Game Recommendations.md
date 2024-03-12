@@ -11,7 +11,6 @@ pin: false
 This is a collection of games that i love and highly recommend playing, broken up by genre and with some extra information where possible such as best platform and in the case of fighting games type of netcode.
 
 ## Beat Em Up's
-
 #### Streets Of Rage 4
 #### Teenage Mutant Ninja Turtles: Shredders Revenge
 
