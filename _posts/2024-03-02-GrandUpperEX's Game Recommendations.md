@@ -17,45 +17,45 @@ This is a collection of games that i love and highly recommend playing, broken u
 
 ## Fighting Games
 All of these have rollback netcode for a great experience when playing online
-### Tekken 8
-### Street Fighter 6
-### Guilty Gear Strive
-### Power Rangers: Battle For The Grid
-### Killer Instinct (2013)
+#### Tekken 8
+#### Street Fighter 6
+#### Guilty Gear Strive
+#### Power Rangers: Battle For The Grid
+#### Killer Instinct (2013)
 
 ## Character Action 
-### Devil May Cry 5 Special Edition
-### Bayonetta
-### Vanquish
-### Metal Gear Rising Revengeance
+#### Devil May Cry 5 Special Edition
+#### Bayonetta
+#### Vanquish
+#### Metal Gear Rising Revengeance
 
 ## RPG
-### Final Fantasy XVI
-### Fallout 4
+#### Final Fantasy XVI
+#### Fallout 4
 
 ## Indie
-### Stardew Valley
-### Vampire Survivors
-### Hades
-### Dead Cells
+#### Stardew Valley
+#### Vampire Survivors
+#### Hades
+#### Dead Cells
 
 ## Sports & Racing
-### Gran Turismo 7
-### Tony Hawk's Pro Skater 1+2
+#### Gran Turismo 7
+#### Tony Hawk's Pro Skater 1+2
 
 ## Horror
-### Resident Evil 2 Remake
+#### Resident Evil 2 Remake
 
 ## Shooter
-### Doom Eternal
-### Doom (2016)
+#### Doom Eternal
+#### Doom (2016)
 
 ## Open World
-### Ghost Of Tsushima
-### Marvel's Spider-Man 1,2 & Miles Morales
+#### Ghost Of Tsushima
+#### Marvel's Spider-Man 1,2 & Miles Morales
 
 ## Platformer
-### Ratchet & Clank Rift Apart
+#### Ratchet & Clank Rift Apart
 
 
 
