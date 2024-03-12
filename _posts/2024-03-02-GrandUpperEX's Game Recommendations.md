@@ -7,6 +7,9 @@ toc: true
 comments: false
 pin: false
 ---
+#Introduction
+This is a collection of games that i love and highly recommend playing, broken up by genre and with some extra information where possible
+
 
 ## Beat Em Up's
 
