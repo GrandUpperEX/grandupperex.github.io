@@ -7,8 +7,8 @@ toc: true
 comments: false
 pin: false
 ---
-#Introduction
-This is a collection of games that i love and highly recommend playing, broken up by genre and with some extra information where possible
+# Introduction
+This is a collection of games that i love and highly recommend playing, broken up by genre and with some extra information where possible such as best platform and in the case of fighting games type of netcode.
 
 
 ## Beat Em Up's
