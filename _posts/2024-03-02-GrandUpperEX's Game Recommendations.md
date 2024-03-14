@@ -14,7 +14,8 @@ This is a collection of games that i love and highly recommend playing, broken u
 #### Streets Of Rage 4
 <iframe width="560" height="315" src="https://www.youtube.com/embed/owbKz1qcnUI?si=TA7_H7BSuANeNaiT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-A long awaited sequel to one of the best games of all time [Steam](https://store.steampowered.com/app/985890/Streets_of_Rage_4/)
+A long awaited sequel to one of the best games of all time 
+[Steam Store](https://store.steampowered.com/app/985890/Streets_of_Rage_4/)
 
 #### Teenage Mutant Ninja Turtles: Shredders Revenge
 
