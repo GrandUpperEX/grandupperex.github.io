@@ -17,7 +17,7 @@ This is a collection of games that i love and highly recommend playing, broken u
 ## Fighting Games
 All of these have rollback netcode for a great experience when playing online
 #### Tekken 8
-{% include embed/{youtube}.html id='{3pwiP6oEMmw}' %}
+{% include embed/youtube.html id='3pwiP6oEMmw' %}
 #### Street Fighter 6
 #### Guilty Gear Strive
 #### Power Rangers: Battle For The Grid
