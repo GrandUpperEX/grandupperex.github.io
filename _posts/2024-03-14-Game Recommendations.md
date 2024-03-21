@@ -25,11 +25,11 @@ A long awaited sequel to one of the best games of all time
 
 #### Tekken 8
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3pwiP6oEMmw?si=OuuCyMABK4uEXxFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Rollback Netcode and Full Crossplay between PS5, Xbox Series X|S and Steam
+Rollback Netcode {good enough implementation to play with friends in other countries} and Full Crossplay between PS5, Xbox Series X|S and Steam
 
 #### Street Fighter 6
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1INU3FOJsTw?si=dHkxslSZITG7N0CC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Rollback Netcode and Full Crossplay between PS4, PS5, Xbox Series X|S and Steam
+Rollback Netcode {good enough implementation to play with friends in other countries} and Full Crossplay between PS4, PS5, Xbox Series X|S and Steam
 
 #### Guilty Gear Strive
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/RVd6vhFhYiM?si=vGv9-a_MsAhsOmw7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
