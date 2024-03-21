@@ -19,17 +19,29 @@ A long awaited sequel to one of the best games of all time
 [Steam Store](https://store.steampowered.com/app/985890/Streets_of_Rage_4/)
 
 #### Teenage Mutant Ninja Turtles: Shredders Revenge
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ozKsDzumb0c?si=z_T9ub2nHoMsvtvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Fighting Games
 
 #### Tekken 8
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3pwiP6oEMmw?si=OuuCyMABK4uEXxFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Rollback Netcode and Full Crossplay between PS5, Xbox Series X/S and Steam
+Rollback Netcode and Full Crossplay between PS5, Xbox Series X|S and Steam
 
 #### Street Fighter 6
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1INU3FOJsTw?si=dHkxslSZITG7N0CC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Rollback Netcode and Full Crossplay between PS4, PS5, Xbox Series X|S and Steam
+
 #### Guilty Gear Strive
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/RVd6vhFhYiM?si=vGv9-a_MsAhsOmw7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Rollback Netcode and Full Crossplay between PS4, PS5, Xbox Series X|S and Steam
+
 #### Power Rangers: Battle For The Grid
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Em453eibLuc?si=Du6WpTYF9mldjZrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Rollback Netcode and Full Crossplay between PS4, Xbox One, Steam, Nintendo Switch {Stadia lol}
+
 #### Killer Instinct (2013)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/5tdUOK5xl8U?si=lNVCSnByVtuEPzK6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Rollback Netcode and Crossplay between Xbox and Steam {Possibly Limited}
 
 ## Character Action 
 #### Devil May Cry 5 Special Edition
