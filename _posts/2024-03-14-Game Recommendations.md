@@ -12,7 +12,7 @@ This is a collection of games that i love and highly recommend playing, broken u
 
 ## Beat Em Up's
 #### Streets Of Rage 4
-<iframe width="100%" src="https://www.youtube.com/embed/owbKz1qcnUI?si=TA7_H7BSuANeNaiT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/owbKz1qcnUI?si=TA7_H7BSuANeNaiT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 A long awaited sequel to one of the best games of all time 
 
@@ -23,7 +23,7 @@ A long awaited sequel to one of the best games of all time
 ## Fighting Games
 
 #### Tekken 8
-<iframe width="100%" src="https://www.youtube.com/embed/3pwiP6oEMmw?si=OuuCyMABK4uEXxFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/3pwiP6oEMmw?si=OuuCyMABK4uEXxFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Rollback Netcode and Full Crossplay between PS5, Xbox Series X/S and Steam
 
 #### Street Fighter 6
