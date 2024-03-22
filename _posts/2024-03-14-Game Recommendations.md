@@ -14,12 +14,14 @@ This is a collection of games that i love and highly recommend playing, broken u
 #### Streets Of Rage 4
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/owbKz1qcnUI?si=TA7_H7BSuANeNaiT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-A long awaited sequel to one of the best games of all time 
+A long awaited sequel to one of the best games of all time with an absolutely banging soundtrack and artstyle to boot.
 
-[Steam Store](https://store.steampowered.com/app/985890/Streets_of_Rage_4/)
+[Streets Of Rage 4 on Steam](https://store.steampowered.com/app/985890/Streets_of_Rage_4/)
 
-#### Teenage Mutant Ninja Turtles: Shredders Revenge
+#### Teenage Mutant Ninja Turtles: Shredder's Revenge
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ozKsDzumb0c?si=z_T9ub2nHoMsvtvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[TMNT: Shredder's Revenge on Steam](https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/)
 
 ## Fighting Games
 
@@ -27,21 +29,31 @@ A long awaited sequel to one of the best games of all time
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3pwiP6oEMmw?si=OuuCyMABK4uEXxFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Rollback Netcode {good enough implementation to play with friends in other countries} and Full Crossplay between PS5, Xbox Series X|S and Steam
 
+[Tekken 8 on Steam](https://store.steampowered.com/app/1778820/TEKKEN_8/)
+
 #### Street Fighter 6
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1INU3FOJsTw?si=dHkxslSZITG7N0CC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Rollback Netcode {good enough implementation to play with friends in other countries} and Full Crossplay between PS4, PS5, Xbox Series X|S and Steam
+
+[Street Fighter 6 on Steam](https://store.steampowered.com/app/1364780/Street_Fighter_6/)
 
 #### Guilty Gear Strive
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/RVd6vhFhYiM?si=vGv9-a_MsAhsOmw7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Rollback Netcode and Full Crossplay between PS4, PS5, Xbox Series X|S and Steam
 
+[Guilty Gear Strive on Steam](https://store.steampowered.com/app/1384160/GUILTY_GEAR_STRIVE/)
+
 #### Power Rangers: Battle For The Grid
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Em453eibLuc?si=Du6WpTYF9mldjZrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Rollback Netcode and Full Crossplay between PS4, Xbox One, Steam, Nintendo Switch {Stadia lol}
+Rollback Netcode and Full Crossplay between PS4, Xbox One, Steam & Nintendo Switch, despite this it has a fairly low player base so online games may be difficult to get into with random people but it is great fun with friends online or locally
 
-#### Killer Instinct (2013)
+[Power Rangers Battle For The Grid on Steam](https://store.steampowered.com/app/1110100/Power_Rangers_Battle_for_the_Grid/)
+
+#### Killer Instinct: Anniversary Edition (2013)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5tdUOK5xl8U?si=lNVCSnByVtuEPzK6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Rollback Netcode and Crossplay between Xbox and Steam {Possibly Limited}
+Rollback Netcode and Crossplay between Xbox and Steam
+
+[Killer Instinct Anniversary Edition on Steam](https://store.steampowered.com/app/2625580/Killer_Instinct_Anniversary_Edition/)
 
 ## Character Action 
 #### Devil May Cry 5 Special Edition
@@ -82,7 +94,7 @@ This is the true pinnacle of the genre so if you are new to it start here and wo
 
 ## Sports & Racing
 #### Gran Turismo 7
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1tBUsXIkG1A?si=l1rAmJhapWiZWUur" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1tBUsXIkG1A?si=l1rAmJhapWiZWUur" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Tony Hawk's Pro Skater 1+2
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/4paYDD0WIVY?si=TF98nHLBYeJJOMrm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
