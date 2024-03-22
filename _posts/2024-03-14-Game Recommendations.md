@@ -21,13 +21,16 @@ A long awaited sequel to one of the best games of all time with an absolutely ba
 #### Teenage Mutant Ninja Turtles: Shredder's Revenge
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ozKsDzumb0c?si=z_T9ub2nHoMsvtvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Spiritual sequel to TMNT Turtles In Time and it lives up to that and then some.
+
 [TMNT: Shredder's Revenge on Steam](https://store.steampowered.com/app/1361510/Teenage_Mutant_Ninja_Turtles_Shredders_Revenge/)
 
 ## Fighting Games
 
 #### Tekken 8
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/3pwiP6oEMmw?si=OuuCyMABK4uEXxFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-Rollback Netcode {good enough implementation to play with friends in other countries} and Full Crossplay between PS5, Xbox Series X|S and Steam
+Rollback Netcode - good enough implementation to play with friends in other countries 
+Full Crossplay between PS5, Xbox Series X|S and Steam
 
 [Tekken 8 on Steam](https://store.steampowered.com/app/1778820/TEKKEN_8/)
 
