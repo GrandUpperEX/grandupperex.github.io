@@ -45,9 +45,17 @@ Rollback Netcode and Crossplay between Xbox and Steam {Possibly Limited}
 
 ## Character Action 
 #### Devil May Cry 5 Special Edition
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/A_CzKLboVq8?si=SRoX6DOSs-teJOfI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+This is the true pinnacle of the genre so if you are new to it start here and work your way back through the rest of them if you like it.
+
 #### Bayonetta
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/h7PZ1i992kc?si=yicxJDb3OHpPUuCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Vanquish
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kOp4XLA0oPk?si=BV1GGaTALwyNBzGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Metal Gear Rising Revengeance
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EMCkbDnaTDM?si=fo7kthYaFCIVCdaj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## RPG
 #### Final Fantasy XVI
