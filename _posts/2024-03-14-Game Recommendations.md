@@ -59,31 +59,61 @@ This is the true pinnacle of the genre so if you are new to it start here and wo
 
 ## RPG
 #### Final Fantasy XVI
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/aPT26Dd3OzE?si=thF-xAWUuiKojr97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Final Fantasy 7 Rebirth
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/KOhs9ZLImgE?si=vTPuJPAb28KDG1Us" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Fallout 4
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/X5aJfebzkrM?si=3_19xm0ztyEbr92Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Indie
 #### Stardew Valley
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/8A7A1X1TVNc?si=e1w8RMvYclFZHBh9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Vampire Survivors
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/GFeHlz31KRk?si=G6UkO6eOCMfsPiDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Hades
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Bz8l935Bv0Y?si=OFkd90eMxBuwhVxu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Dead Cells
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/RvGaSPTcTxc?si=Dv6XT_64eVaSWiVh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Sports & Racing
 #### Gran Turismo 7
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1tBUsXIkG1A?si=l1rAmJhapWiZWUur" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Tony Hawk's Pro Skater 1+2
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/4paYDD0WIVY?si=TF98nHLBYeJJOMrm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Horror
 #### Resident Evil 2 Remake
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/u3wS-Q2KBpk?si=HUaMW0gwzauK2C7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Shooter
 #### Doom Eternal
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/F0tekG2XP_A?si=P1-rLZWAiBC3RR4P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 #### Doom (2016)
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/RO90omga8D4?si=kZRIjhGheoJGi8Gl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Open World
 #### Ghost Of Tsushima
-#### Marvel's Spider-Man 1,2 & Miles Morales
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/A5gVt028Hww?si=p-2ePC3Wa0XXgeZJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Marvel's Spider-Man 1 Remastered
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/mrT5q5xXb7Y?si=olJTRPq8CmPFwCjn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Marvel's Spider-Man Miles Morales
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/U-1cn1yOKYc?si=TXtK_5_KsA4zKjE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Marvel's Spider-Man 2
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/9fVYKsEmuRo?si=GFX95Flb6E0XbVQo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Platformer
 #### Ratchet & Clank Rift Apart
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/55PRv_e00wc?si=56HRxKRsQ3NiikFr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
