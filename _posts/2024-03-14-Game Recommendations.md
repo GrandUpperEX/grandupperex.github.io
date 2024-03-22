@@ -32,7 +32,7 @@ Spiritual sequel to TMNT Turtles In Time and it lives up to that and then some.
 
 | Rollback Netcode  | Crossplay |
 | ------            | ------     |
-| Good enough implementation to play with friends in other countries | PS5, Xbox Series X/S and Steam |
+| Yes - International Play Possible | PS5, Xbox Series X/S and Steam |
 
 [Tekken 8 on Steam](https://store.steampowered.com/app/1778820/TEKKEN_8/)
 
@@ -41,7 +41,7 @@ Spiritual sequel to TMNT Turtles In Time and it lives up to that and then some.
 
 | Rollback Netcode  | Crossplay |
 | ------            | ------     |
-| Good enough implementation to play with friends in other countries | PS4, PS5, Xbox Series X/S and Steam |
+| Yes - International Play Possible | PS4, PS5, Xbox Series X/S and Steam |
 
 [Street Fighter 6 on Steam](https://store.steampowered.com/app/1364780/Street_Fighter_6/)
 
