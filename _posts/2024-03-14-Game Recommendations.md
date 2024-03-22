@@ -38,25 +38,38 @@ Spiritual sequel to TMNT Turtles In Time and it lives up to that and then some.
 
 #### Street Fighter 6
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1INU3FOJsTw?si=dHkxslSZITG7N0CC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Rollback Netcode {good enough implementation to play with friends in other countries} and Full Crossplay between PS4, PS5, Xbox Series X|S and Steam
+
+| Rollback Netcode  | Crossplay |
+| ------            | ------     |
+| Good enough implementation to play with friends in other countries | PS4, PS5, Xbox Series X/S and Steam |
 
 [Street Fighter 6 on Steam](https://store.steampowered.com/app/1364780/Street_Fighter_6/)
 
 #### Guilty Gear Strive
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/RVd6vhFhYiM?si=vGv9-a_MsAhsOmw7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Rollback Netcode and Full Crossplay between PS4, PS5, Xbox Series X|S and Steam
+
+| Rollback Netcode  | Crossplay |
+| ------            | ------     |
+| Yes | PS4, PS5, Xbox Series X/S and Steam |
 
 [Guilty Gear Strive on Steam](https://store.steampowered.com/app/1384160/GUILTY_GEAR_STRIVE/)
 
 #### Power Rangers: Battle For The Grid
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/Em453eibLuc?si=Du6WpTYF9mldjZrs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Rollback Netcode and Full Crossplay between PS4, Xbox One, Steam & Nintendo Switch, despite this it has a fairly low player base so online games may be difficult to get into with random people but it is great fun with friends online or locally
+
+| Rollback Netcode  | Crossplay |
+| ------            | ------     |
+| Yes | PS4, Xbox One, Nintendo Switch and Steam |
 
 [Power Rangers Battle For The Grid on Steam](https://store.steampowered.com/app/1110100/Power_Rangers_Battle_for_the_Grid/)
 
 #### Killer Instinct: Anniversary Edition (2013)
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/5tdUOK5xl8U?si=lNVCSnByVtuEPzK6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 Rollback Netcode and Crossplay between Xbox and Steam
+
+| Rollback Netcode  | Crossplay |
+| ------            | ------     |
+| Yes | Xbox and Steam |
 
 [Killer Instinct Anniversary Edition on Steam](https://store.steampowered.com/app/2625580/Killer_Instinct_Anniversary_Edition/)
 
