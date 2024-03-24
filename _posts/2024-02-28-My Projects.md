@@ -11,4 +11,4 @@ pin: true
 
 ## Steam Grid Images
 
-[Steam Grids - Github](https://github.com/GrandUpperEX/SteamGrids) or [SteamGrids - SGDB](https://www.steamgriddb.com/profile/76561198047092619)
+[Steam Grids - Github](https://github.com/GrandUpperEX/SteamGrids)
