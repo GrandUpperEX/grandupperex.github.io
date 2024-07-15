@@ -7,6 +7,7 @@ toc: true
 comments: false
 pin: false
 ---
+
 ## Introduction
 This is a collection of games that i love and highly recommend playing, broken up by genre and with links to Steam where possible and in the case of fighting games type of netcode and crossplay status.
 
