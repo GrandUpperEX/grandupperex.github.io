@@ -14,13 +14,13 @@ pin: true
 These are the best games i played this year in no particular order.
 Top 5 are marked by a *
 
-### Streets Of Rage 4
+### Streets Of Rage 4 *
 
 [Streets Of Rage 4 Trailer](https://www.youtube.com/watch?v=owbKz1qcnUI)
 
 A long awaited sequel to one of the best games of all time with an absolutely banging soundtrack and artstyle to boot. This is a great way to hang out with friends or keep the younger family members entertained over the holiday season with up to 4 players on the same system or 2 players online.
 
-### Teenage Mutant Ninja Turtles: Shredder's Revenge
+### Teenage Mutant Ninja Turtles: Shredder's Revenge *
 
 [TMNT: Shredders Revenge Trailer](https://www.youtube.com/watch?v=ozKsDzumb0c)
 
@@ -34,13 +34,13 @@ A truly long awaited collection of one of the best fighting game series with gre
 
 [For fun heres the Iron Man infinite for MvC2](https://www.youtube.com/watch?v=vpYdEjvAg3k)
 
-### Vampire Survivors
+### Vampire Survivors *
 
 [Vampire Survivors Trailer](https://www.youtube.com/watch?v=aS7JqyHdQQA)
 
 A simple yet oh so satisfying time sink for when you only have a short amount of time to play something, the more time you put into this the more you will want to play it.
 
-### Hades II
+### Hades II *
 
 [Hades II Trailer](https://www.youtube.com/watch?v=WH3jT53hIYM)
 
@@ -52,7 +52,7 @@ An amazing experience all around, though some patches definitely made the certai
 
 An amazing re-release of two classic games updated with 4K and 120fps support with online co-op to boot which is an absolutely amazing way to experience these two classics though it does make the game slightly more challenging by effectively splitting the ammo pool between all players and not giving each player their own ammo pick ups.
 
-### Borderlands 3
+### Borderlands 3 *
 
 [Borderlands 3 Trailer](https://www.youtube.com/watch?v=n7mUwX5IPRs)
 
