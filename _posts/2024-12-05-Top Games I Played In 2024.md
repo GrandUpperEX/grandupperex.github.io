@@ -66,10 +66,10 @@ An absolutely challenging SMB3 style platformer with some kaizo style levels thr
 
 ### Special Mentions
 
-Borderlands 2 - Here because it has a slower pace than Borderlands 3 but otherwise a very fun game to play with friends.
-Final Fantasy 7 Rebirth - Here because it was slightly too long and overstayed its welcome, also fuck Queens Blood. The combat was fun though.
-Final Fantasy XVI - Here because i only played the DLC this year and not the main game. Amazing combat system that only got better the more i played it.
-Tekken 8 - Here because the game got worse over time but was great when it came out.
-Cuphead - Here and not in the main list simply because i haven't finished it yet, maybe in the Christmas break or New Year.
-Monster Hunter Rise - Here and not in the main list because i haven't finished it yet, despite it being a very fun game to play with friends.
-Silent Hill 2 Remake - Only here and not in the main list because of a stuttering issue that left me with a migraine, otherwise a great game.
+- Borderlands 2 - Here because it has a slower pace than Borderlands 3 but otherwise a very fun game to play with friends.
+- Final Fantasy 7 Rebirth - Here because it was slightly too long and overstayed its welcome, also fuck Queens Blood. The combat was fun though.
+- Final Fantasy XVI - Here because i only played the DLC this year and not the main game. Amazing combat system that only got better the more i played it.
+- Tekken 8 - Here because the game got worse over time but was great when it came out.
+- Cuphead - Here and not in the main list simply because i haven't finished it yet, maybe in the Christmas break or New Year.
+- Monster Hunter Rise - Here and not in the main list because i haven't finished it yet, despite it being a very fun game to play with friends.
+- Silent Hill 2 Remake - Only here and not in the main list because of a stuttering issue that left me with a migraine, otherwise a great game.
