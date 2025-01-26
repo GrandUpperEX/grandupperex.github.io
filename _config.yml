@@ -65,7 +65,7 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://grandupperex.github.io"
-    - label: "Mastodon"
+    - label: "Pixelfed"
       icon: "fa-brands fa-mastodon"
       url: "https://pixelfed.social/i/web/profile/787682311729961163"
     - label: "GitHub"
@@ -74,7 +74,7 @@ author:
 
 footer:
   links:
-    - label: "Mastodon"
+    - label: "Pixelfed"
       icon: "fa-brands fa-mastodon"
       url: "https://pixelfed.social/i/web/profile/787682311729961163"
     - label: "GitHub"
