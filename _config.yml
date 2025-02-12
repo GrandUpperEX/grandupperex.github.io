@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "John"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Welcome"
   links:
     - label: "Website"
