@@ -65,18 +65,18 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://grandupperex.github.io"
-    - label: "Pixelfed"
+    - label: "Mastodon"
       icon: "fa-brands fa-mastodon"
-      url: "https://pixelfed.social/i/web/profile/787682311729961163"
+      url: "https://mastodon.social/@GrandUpperEX"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GrandUpperEX"
 
 footer:
   links:
-    - label: "Pixelfed"
+    - label: "Mastodon"
       icon: "fa-brands fa-mastodon"
-      url: "https://pixelfed.social/i/web/profile/787682311729961163"
+      url: "https://mastodon.social/@GrandUpperEX"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/GrandUpperEX"
