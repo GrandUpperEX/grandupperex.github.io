@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "John"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Welcome"
+  bio    : "FUCK AI"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
