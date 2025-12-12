@@ -107,7 +107,7 @@ This is kind of a cheat pick for two reasons, one because it's a collection of t
 
 ***Favorite Tracks*** -  Chokehold, The Summoning, Ascensionism
 
-This album has been an absolute godsend for processing a bunch of crap I have had to deal with in the past couple of years especially when paired with its follow up *[[#Sleep Token - Even In Arcadia|Even In Arcadia]]*, if you like these I would highly recommend checking out the two previous albums by the band [*Sundowning*](https://album.link/s/5XWsBMTe4JPtH4qmvYUm86) & [*This Place Will Become Your Tomb*](https://album.link/s/4SD2UxRO9OgeSCQK0PN7cC)
+This album has been an absolute godsend for processing a bunch of crap I have had to deal with in the past couple of years especially when paired with its follow up [*Even In Arcadia*](https://album.link/i/1800532611), if you like these I would highly recommend checking out the two previous albums by the band [*Sundowning*](https://album.link/s/5XWsBMTe4JPtH4qmvYUm86) & [*This Place Will Become Your Tomb*](https://album.link/s/4SD2UxRO9OgeSCQK0PN7cC)
 ## Epilogue
 If you made it this far thanks for reading this it means a lot to me that you would take the time out of your day to do so, if you want to talk further about any of the albums in this wrap up or to share your own feel free to hit me up on [Mastodon](https://mastodon.social/@GrandUpperEX). Heres hoping for a better year for us all in 2026.
 
