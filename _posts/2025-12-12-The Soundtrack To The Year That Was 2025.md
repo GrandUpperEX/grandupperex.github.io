@@ -32,17 +32,17 @@ This was the year that I decided to cancel Spotify & go back to physical media a
 These are in no particular order as how good of an album something is is entirely subjective so it ultimately feels pointless to assign them an arbitrary number.
 ### Sleep Token - Even In Arcadia
 [Streaming Link](https://album.link/i/1800532611)
-***Favourite Tracks*** - Emergence, Caramel, Past Self, Damocles.
+***Favorite Tracks*** - Emergence, Caramel, Past Self, Damocles.
 
 There is absolutely no way in hell that this album wasn't going to be on this wrap up list, it is far and away the best album of the year IMO. From the very first somber notes of "Look To Windward" to the absolutely crushing breakdown at the end of "Infinite Baths" not a single moment goes by where your mind is left wandering and wondering what's next making it extremely difficult to pick my favorite tracks from the album. This album is the personification of 2025 for me.
 ### Coheed & Cambria - The Father Of Make Believe (New Entities Edition)
 [Streaming Link](https://album.link/s/7vHWOemZcXHOgBud2vsOEc)
-***Favourite Tracks*** - The Father Of Make Believe, One Last Miracle, The Continuum I, Key Entity Extraction IX
+***Favorite Tracks*** - The Father Of Make Believe, One Last Miracle, The Continuum I, Key Entity Extraction IX
 
 Coheed & Cambria back at it again with a follow up to 2022's stunning *Vaxis II A Window Of The Waking Mind*, this isn't their best release in the trilogy but it still has some absolutely amazing tracks and I highly recommend listening to the New Entities Edition over the original release as the four Key Entity Extraction tracks it added just add that special spark that wasn't entirely there on the original version.
 ### Snarky Puppy - Somni
 [Streaming Link](https://album.link/s/72Tr4gYIAko7djIwgfS4i1)
-***Favourite Tracks*** - As You Are But Not As You Were, Chimera, Between Worlds
+***Favorite Tracks*** - As You Are But Not As You Were, Chimera, Between Worlds
 
 This release kind of came out of nowhere for me after having only heard *Chimera* and no other tracks from the album before release and I'm so happy it happened that way so I could experience the album from front to back without really having heard a majority of it weeks before hand. The album as a whole has a huge sound that just fills a room effortlessly while still being intricate and not crowded which is surprising given the large amount of instruments being played on every single track.
 
@@ -84,7 +84,7 @@ The follow up to 2021's *Eternal Blue* but more intense, darker & aggressive but
 
 ## Act 3 - Special Mentions
 ### Black Sabbath - The Ten Year War
-***Favourite Tracks*** - Paranoid, Iron Man, Children Of The Grave, Supernaut
+***Favorite Tracks*** - Paranoid, Iron Man, Children Of The Grave, Supernaut
 Sadly no links for this one but search for the 2009 versions of Black Sabbaths first eight albums on your streaming service or music store.
 
 This is kind of a cheat pick for two reasons, one because it's a collection of the first eight Black Sabbath albums and two because this was a very limited Vinyl release from 2017 that contains the 2009 remasters, which are considered to be the best modern versions of those albums & the first four are essential listening. After the sad passing of one of the founding fathers of heavy music Ozzy Osbourne I felt like it was the right time to go back to the genres roots and rediscover where it all came from and damn was that a rough trip but very much worthwhile as it led me back to what I loved about the genre. The catchy guitar riffs on "Paranoid", the punchy drums on "Children Of The Grave", the slow sludgy crawl of "Iron Man" and never shying away from difficult and sometimes controversial subject matter. 
@@ -95,7 +95,7 @@ This is kind of a cheat pick for two reasons, one because it's a collection of t
 
 This album has been an absolute godsend for processing a bunch of crap I have had to deal with in the past couple of years especially when paired with its follow up *[[#Sleep Token - Even In Arcadia|Even In Arcadia]]*, if you like these I would highly recommend checking out the two previous albums by the band [*Sundowning*](https://album.link/s/5XWsBMTe4JPtH4qmvYUm86) & [*This Place Will Become Your Tomb*](https://album.link/s/4SD2UxRO9OgeSCQK0PN7cC)
 ## Epilogue
-If you made it this far thanks for reading this it means a lot to me that you would take the time out of your day to do so, if you want to talk further about any of the albums in this wrap up or to share your own feel free to hit me up on [Mastodon](https://mastodon.social/@GrandUpperEX).Heres hoping for a better year for us all in 2026.
+If you made it this far thanks for reading this it means a lot to me that you would take the time out of your day to do so, if you want to talk further about any of the albums in this wrap up or to share your own feel free to hit me up on [Mastodon](https://mastodon.social/@GrandUpperEX). Heres hoping for a better year for us all in 2026.
 
 
 
