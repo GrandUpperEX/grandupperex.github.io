@@ -1,5 +1,5 @@
 ---
-title: The Soundtrack To The Year That Was... 2025
+title: The Soundtrack To The Year That Was 2025
 date: 2025-12-12 18:00:00 +0000
 categories:
   - Music
