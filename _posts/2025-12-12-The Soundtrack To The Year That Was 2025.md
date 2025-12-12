@@ -25,9 +25,11 @@ This was the year that I decided to cancel Spotify & go back to physical media a
 - [Connor Kaminski - Tapestry](https://album.link/s/1xePclwfoyHtZTIIbPjCKK)
 - [Dayseeker - Creature In The Black Night](https://album.link/s/331dpokIUtNiVsUuDPLl9h)
 - [Spiritbox - Tsunami Sea](https://album.link/s/79sg58t1vRpcxudpP9uPtg)
+
 ### Special Mentions
 - Black Sabbath - The Ten Year War (No Links Sadly)
 - [Sleep Token - Take Me Back To Eden](https://album.link/s/1gjugH97doz3HktiEjx2vY)
+
 ## Act 2 - The New Releases
 These are in no particular order as how good of an album something is is entirely subjective so it ultimately feels pointless to assign them an arbitrary number.
 ### Sleep Token - Even In Arcadia
